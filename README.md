@@ -5,10 +5,10 @@ If you do not have the Unreal Engine built from source, use the launcher version
 
 =Introduction
 
-*
+
 Note to self: remove keys before publishing
 Do not remove this note, you'll forget next time
-*
+
 
 Get help from our discord server any time: https://discord.gg/ANt8bbh3rA
 
