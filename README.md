@@ -3,6 +3,8 @@ For the source built version of UE5.1
 
 This is the one you want for dedicated servers, a "call function by name" blueprints node, and a Android permissions sanitizer.
 
+This version will receive free updates.
+
 If you do not have the Unreal Engine built from source, use the launcher version: https://github.com/Incurian/VR_Template_UE5.1_EL
 
 =Introduction
