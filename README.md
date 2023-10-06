@@ -18,7 +18,7 @@ Get help from our discord server any time: https://discord.gg/ANt8bbh3rA
 
 VR is a hard problem.  There are too many ways to move and too few ways to stop the player from moving; any solutions need to be computationally cheap and not make the player sick.  VR gives you effortless presence and intuitive interactions, but it makes breaks from reality all the more jarring.  Making the world too much like reality can backfire because the player's ability to interact with it is significantly handicapped compared to reality; perfect simulations that don't feel right are counter-productive.  It needs to be as realistic as can be experienced properly, but not one iota more.
 
-The solutions are made more difficult by my decision to use blueprint scripting exclusively, but I think it's worthwhile because blueprints are surprisingly powerful considering how easy they are to use.  And I don't want to learn C++.
+The solutions are made more difficult by my decision to use blueprint scripting exclusively, but I think it's worthwhile because blueprints are surprisingly powerful considering how easy they are to use.
 
 Please report bugs or opportunities to improve the blueprints.  I'm begging you.
 
